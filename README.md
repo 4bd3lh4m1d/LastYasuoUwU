@@ -11,9 +11,9 @@
 
 
 ## My Skill Set  
-<div style="width: 100%; overflow-x: auto;">
-<table width="100%" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
-<tr><td valign="top" width="33%" style="width: 33.33%;">
+<div style="display: flex; width: 100%; justify-content: space-between; flex-wrap: wrap;">
+
+<div style="flex: 1; min-width: 300px; text-align: center; padding: 0 10px;">
 
 ### Frontend  
 <div align="center">  
@@ -26,7 +26,9 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%" style="width: 33.33%;">
+</div>
+
+<div style="flex: 1; min-width: 300px; text-align: center; padding: 0 10px;">
 
 ### Backend  
 <div align="center">  
@@ -36,7 +38,9 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%" style="width: 33.33%;">
+</div>
+
+<div style="flex: 1; min-width: 300px; text-align: center; padding: 0 10px;">
 
 ### DevOps  
 <div align="center">  
@@ -45,9 +49,9 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
-</td></tr></table>
 </div>
 
+</div>
 <br/>
 
 ## Connect with me  
