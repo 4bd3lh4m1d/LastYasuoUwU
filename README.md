@@ -1,10 +1,11 @@
 ### <div align="center">Hello👋 I'm Abdelhamid Bellebouir</div>  
   
 
-- 🔭 I’m currently Junior Mobile and Front-End developer  
+- I’m currently Junior Mobile and Front-End developer  
   
+- I’m currently learning Back-end using python or Java
 
-- 🌱 I’m currently learning Back-end using python in ALX also a student in SMK college of applied sciences in Vilnius, Lithuania  
+- 🎯 I aim to learn about Dev and programming
   
 
 <br/>  
