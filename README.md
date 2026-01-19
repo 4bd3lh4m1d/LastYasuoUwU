@@ -1,67 +1,33 @@
-### <div align="center">Hello👋 I'm Abdelhamid Bellebouir</div>  
-  
 
-- I’m currently Junior Mobile and Front-End developer  
-  
-- I’m currently learning Back-end using python or Java
+# Hi, I’m ABDELHAMID BELLEBOUIR 👋
 
-- 🎯 I aim to learn about Dev and programming
-  
+**Junior Mobile & Web Developer** — Full‑Stack oriented, open to **remote**.  
+I build clean, usable interfaces and connect them to reliable APIs & databases.
 
-<br/>  
+- 🔭 Recent work: **Devoxx Scan Mobile** (QR attendance), **BOA Authenticator** (TOTP), **xTimesheet**, **CFP Backoffice**, **AI E‑Banking Simulator** (WIP)
+- 🧰 Tech: React, React Native, TypeScript (basics), Tailwind CSS, Ant Design, Redux/Saga, Vite, Java (learning), Spring Boot 3 (learning), PostgreSQL, SQL Server/T‑SQL
+- 📚 Currently learning: **Spring Boot 3, Docker**
+- 💼 Open to: **Junior Full‑Stack**
 
+## Projects (Pinned)
+- 📱 **Devoxx Scan Mobile** — Mobile app + backend to scan & verify attendees via QR codes at DEVOXX Morocco.
+- 🔐 **BOA Authenticator** — Secure mobile app for validating banking operations with TOTP.
+- 🕒 **xTimesheet** — Employee & task management platform.
+- 🎤 **CFP Backoffice** — DEVOXX backoffice to manage talks & presenters.
+- 🧪 **AI E‑Banking Simulator (WIP)** — Frontoffice & backoffice with AI‑assisted features.
 
-## My Skill Set  
-<div style="display: flex; width: 100%; justify-content: space-between; flex-wrap: wrap;">
+## Experience
+- **Associate Software Engineer — Engilabs by XHUB** (Nov 2023 – Aug 2025)  
+  Contributed to professional web apps; UI features; API integrations; team delivery.
+- **Associate Software Engineer — XHUB** (Jan 2023 – Oct 2023)  
+  Frontend interfaces; API integration; code reviews.
+- **Mobile Developer Intern — XHUB** (Jul 2022 – Dec 2022)  
+  Mobile UIs; backend integration.
+- **Academic Projects** (Oct 2020 – Jun 2022)  
+  Desktop/web/mobile apps; relational DB basics.
 
-<div style="flex: 1; min-width: 300px; text-align: center; padding: 0 10px;">
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>
-
-</div>
-
-<div style="flex: 1; min-width: 300px; text-align: center; padding: 0 10px;">
-
-### Backend  
-<div align="center">  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-</div>
-
-<div style="flex: 1; min-width: 300px; text-align: center; padding: 0 10px;">
-
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-
-</div>
-
-</div>
-<br/>
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/lastyasuouwu" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Abdelhamid Bellebouir" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>
-
+## Get in touch
+- 🌐 Portfolio: https://your-portfolio.example
+- 💼 LinkedIn: www.linkedin.com/in/abdelhamid-bellebouir-a33b0a1b0
+- 💻 Email: bellebouir.abdelhamid@gmail.com
+``
