@@ -1,7 +1,7 @@
 
 # Hi, I’m ABDELHAMID BELLEBOUIR 👋
 
-**Junior Mobile & Web Developer** — Full‑Stack oriented, open to **remote**.  
+**Junior Mobile & Web Developer** — Full‑Stack oriented, open to **work**.  
 I build clean, usable interfaces and connect them to reliable APIs & databases.
 
 - 🔭 Recent work: **Devoxx Scan Mobile** (QR attendance), **BOA Authenticator** (TOTP), **xTimesheet**, **CFP Backoffice**, **AI E‑Banking Simulator** (WIP)
@@ -9,7 +9,7 @@ I build clean, usable interfaces and connect them to reliable APIs & databases.
 - 📚 Currently learning: **Spring Boot 3, Docker**
 - 💼 Open to: **Junior Full‑Stack**
 
-## Projects (Pinned)
+## Projects
 - 📱 **Devoxx Scan Mobile** — Mobile app + backend to scan & verify attendees via QR codes at DEVOXX Morocco.
 - 🔐 **BOA Authenticator** — Secure mobile app for validating banking operations with TOTP.
 - 🕒 **xTimesheet** — Employee & task management platform.
