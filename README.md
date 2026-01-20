@@ -27,6 +27,6 @@ I build clean, usable interfaces and connect them to reliable APIs & databases.
   Desktop/web/mobile apps; relational DB basics.
 
 ## Get in touch
-- 🌐 Portfolio: https://your-portfolio.example
-- 💼 LinkedIn: www.linkedin.com/in/abdelhamid-bellebouir-a33b0a1b0
+- 🌐 Portfolio: https://abdelhamid-bellebouir-portfolio.vercel.app
+- 💼 LinkedIn:https://www.linkedin.com/in/abdelhamid-bellebouir-a33b0a1b0
 - 💻 Email: bellebouir.abdelhamid@gmail.com
