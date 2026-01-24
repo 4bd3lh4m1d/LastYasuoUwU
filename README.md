@@ -14,7 +14,7 @@ I build clean, usable interfaces and connect them to reliable APIs & databases.
 - 🔐 **BOA Authenticator** — Secure mobile app for validating banking operations with TOTP.
 - 🕒 **xTimesheet** — Employee & task management platform.
 - 🎤 **CFP Backoffice** — DEVOXX backoffice to manage talks & presenters.
-- 🧪 **AI E‑Banking Simulator (WIP)** — Frontoffice & backoffice with AI‑assisted features.
+- 🧪 **AI E‑Banking Simulator** — Frontoffice & backoffice with AI‑assisted features.
 
 ## Experience
 - **Associate Software Engineer — Engilabs by XHUB** (Nov 2023 – Aug 2025)  
